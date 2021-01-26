@@ -1,3 +1,4 @@
 # Сравнение текстов
 
-![](src/images/text-fields.png)
+
+![Сравнение текста из двух полей:](src/images/text-fields.png)
