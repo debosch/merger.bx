@@ -1,3 +1,3 @@
 # Сравнение текстов
 
-[](src/images/text-fields.png)
+![](src/images/text-fields.png)
