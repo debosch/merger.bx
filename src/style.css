@@ -1,0 +1,62 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    margin-bottom: 100px;
+}
+
+.header-centered {
+    text-align: center;
+}
+
+.container-custom {
+    max-width: 1600px;
+    margin: 40px auto 0 auto;
+}
+
+.form-control-file-custom {
+    max-width: 500px;
+}
+
+.text {
+    padding: 15px;
+    width: 100%;
+    resize: none;
+}
+
+.text:focus {
+    box-shadow: 0 0 5px 1px black;
+}
+
+.text-result {
+    margin: 10px 0 40px 0;
+    border: 1px solid black;
+    border-radius: 4px;
+    min-height: 200px;
+}
+
+.btn-compare {
+    max-width: 150px;
+    margin: 0 auto;
+}
+
+.btn-eraser {
+    max-width: 150px;
+}
+
+.text-deleted {
+    color: indianred;
+}
+
+.text-added {
+    color: lawngreen;
+}
+
+.bg-deleted {
+    background-color: darkred;
+}
+
+.bg-added {
+    background-color: green;
+}
