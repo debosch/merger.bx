@@ -13,9 +13,7 @@
     <title>Merger</title>
 </head>
 <body>
-    <?php
-        require_once 'db/db.php';
-    ?>
+
     <div class="container-fluid container-custom">
         <h1 class="header-centered">Сравнение текстов</h1>
         <p><i><b>Вставьте два текста для сравнения</b></i></p>

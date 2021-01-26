@@ -11,15 +11,6 @@ document.getElementById('compareButton').onclick = function() {
         result.removeChild(result.firstChild);
     }
 
-    // let xhttp = new XMLHttpRequest();
-    // xhttp.onreadystatechange = function()
-    // {
-    //     console.log(this.responseText);
-    //     result.value = this.responseText;
-    // };
-    // xhttp.open("POST", "db/db.php", true);
-    // xhttp.send("str="+str+"&"+"newStr="+newStr);
-
     if (str === '' && newStr === '')
     {
         //Read from files
